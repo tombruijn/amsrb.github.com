@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-compass'
-gem 'RedCloth'
+gem 'github-pages', group: :jekyll_plugins
+# gem 'jekyll-compass'
